@@ -5,6 +5,11 @@ Every module has good Theoritical explanations and Practical exercises to work w
 Every Course has a Project at the end , which helps to pracice as well as analyse our skills learned in the Course.
 Final Capstone Project will cover all those skills learnt through the Courses and also a Presentation.
 
+ PRESENTATION LINK:
+ https://eu-de.dataplatform.cloud.ibm.com/dashboards/12a03665-4f01-4946-8587-b36cea5b3eb6/view/5422e12b0f8c23e169c8f6e4079f280e7464740bb6bbd750d4d07b490f327197a96d1190c8284f0b8817576ba2ed120dc0
+![image](https://user-images.githubusercontent.com/88547058/160114259-e447747c-4ce6-4ce6-b647-22eebb2b1d93.png)
+
+
 PROCESS:
 
 DATA EXTRACTION :           From API using Requests
