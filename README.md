@@ -1,23 +1,23 @@
 # IBM-DATA-ANALYST-CERTIFICATION
 
 A group of courses starting from data scraping till visulaization are part of this Certification.
-Every module has good Theoritical explanations and Practical exercises to work with followed by Experst Opinion of what is the role played by this Module.
+Every module has good Theoritical explanations and Practical exercises to work with followed by Expert Opinion of what is the role played by this Module.
 Every Course has a Project at the end , which helps to pracice as well as analyse our skills learned in the Course.
-Final Capstone Project will cover all those skills learnt through the Courses.
+Final Capstone Project will cover all those skills learnt through the Courses and also a Presentation.
 
 PROCESS:
 
-Data Extraction :           From API using Requests
+DATA EXTRACTION :           From API using Requests
                             From WEB using BeautifulSoup
 
-Data Wrangling  :
+DATA WRANGLING :
                             Finding & Removing Duplicates
                             Normalizing or scaling data 
                             Data binning 
                             Normalizing (turning categorical into numerical variables and also making them apt for others variables)
               
 EXPLORATORY DATA ANALYSIS : 
-                            Descriptive statistics for summary 
+                            Descriptive statistics for Summary 
                             Grouby (grouping the data to know better info ) 
                             Correlation b/w data & advanced correlation stats methods
                             Conclusion to consider most Correlated Variables from Data
